@@ -1,4 +1,4 @@
-[17:55, 23.12.2024] +90 551 163 53 17: import numpy as np
+import numpy as np
 import random
 
 def harita_uret():
